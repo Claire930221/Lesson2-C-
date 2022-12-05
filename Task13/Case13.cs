@@ -3,5 +3,6 @@
 78 -> третьей цифры нет
 32679 -> 6*/ 
 
-Console.WriteLine("Введите трёхзначное число: ");
+Console.WriteLine("Введите число: ");
 int n = Convert.ToInt32(Console.ReadLine());
+
